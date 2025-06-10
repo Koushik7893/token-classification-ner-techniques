@@ -1,0 +1,13 @@
+numpy
+pandas
+seqeval
+transformers
+datasets
+accelerate
+gensim
+allennlp
+flair
+torch
+pytorch-crf
+kagglehub
+tqdm
